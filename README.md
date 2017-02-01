@@ -8,23 +8,27 @@ This is a WIP. I wanted to try something different, so I have created the whole 
 
 There are currently only 5 Systems supported, because they take time. I will be steadily increasing that number though.
 
+###Supported Systems
+
+Gameboy, NES, SNES, Nintendo 64, Gamecube.
+
 ##Video
 
 This theme has been designed to support Video Previews.
 
 ##Images
 
-*System Views*
-
 <a href="http://imgur.com/myGBaqK"><img src="http://i.imgur.com/myGBaqK.jpg" width="600" title="source: imgur.com" /></a>
 
-*Basic Views*
+*System View*
 
 <a href="http://imgur.com/bUwSsWF"><img src="http://i.imgur.com/bUwSsWF.jpg" width="600" title="source: imgur.com" /></a>
 
-*Detailed Views*
+*Basic View*
 
 <a href="http://imgur.com/lwXvq1j"><img src="http://i.imgur.com/lwXvq1j.jpg" width="600" title="source: imgur.com" /></a>
+
+*Detailed View*
 
 ##Carousel
 
