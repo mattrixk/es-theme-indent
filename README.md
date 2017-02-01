@@ -15,12 +15,15 @@ This theme has been designed to support Video Previews.
 ##Images
 
 *System Views*
+
 <a href="http://imgur.com/myGBaqK"><img src="http://i.imgur.com/myGBaqK.jpg" width="600" title="source: imgur.com" /></a>
 
 *Basic Views*
+
 <a href="http://imgur.com/bUwSsWF"><img src="http://i.imgur.com/bUwSsWF.jpg" width="600" title="source: imgur.com" /></a>
 
 *Detailed Views*
+
 <a href="http://imgur.com/lwXvq1j"><img src="http://i.imgur.com/lwXvq1j.jpg" width="600" title="source: imgur.com" /></a>
 
 ##Carousel
