@@ -45,16 +45,9 @@ this is testing the video preview
 
 	</view>
 	
-	<view name="system">
-
-		<image name="console" extra="true">
-			<color>FFFFFFFF</color>
-			<maxSize>0.75 0.75</maxSize>
-			<origin>0.5 0.5</origin>
-			<pos>0.5 0.5</pos>
-		</image>
-
-		<!-- systemcarousel --><!-- 
+	<feature supported="carousel">
+		<view name="system">
+		
 			<image name="console" extra="true">
 				<color>FFFFFFFF</color>
 				<maxSize>0.980 0.670</maxSize>
@@ -66,24 +59,26 @@ this is testing the video preview
 				<path>./_inc/img/bg_content-system.png</path>
 			</image>
 
-			<systemcarousel name="carousel">
-				<ypos>0.677</ypos>
-				<height>0.260</height>
+			<carousel name="systemcarousel">
+				<pos>0.010 0.710</pos>
+				<size>0.980 0.200</size>
 				<color>FFFFFF00</color>
+				<logoScale>1.5</logoScale>
+				<logoSize>0.125 0.160</logoSize>
+				<maxLogoCount>5</maxLogoCount>
+			</carousel>
 
-				<infobarcolor>FFFFFF00</infobarcolor>
-				<infobarfontpath>./_inc/font/Roboto-Light.ttf</infobarfontpath>
-				<infobarfontsize>0.025</infobarfontsize>
-				<infobarfontcolor>AAAAAA</infobarfontcolor>
+			<text name="systemInfo">
+				<pos>0.010 0.930</pos>
+				<size>0.980 0.050</size>
+				<backgroundColor>FFFFFF00</backgroundColor>
+				<color>FFFFFF</color>
+				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontSize>0.025</fontSize>
+			</text>
 
-				<logosizex>0.250</logosizex>
-				<logosizey>0.100</logosizey>
-				<logoscale>1.600</logoscale>
-				<maxlogocount>5</maxlogocount>
-			</systemcarousel>
-		 --><!-- /systemcarousel -->
-
-	</view>
+		</view>
+	</feature>
 
 	<view name="basic">
 
@@ -138,7 +133,7 @@ this is testing the video preview
 				<selectorColor>FFFFFF40</selectorColor>
 				<selectedColor>FFFFFF</selectedColor>
 				<primaryColor>FFFFFF</primaryColor>
-				<secondaryColor>d8d8d8</secondaryColor>
+				<secondaryColor>CCCCCC</secondaryColor>
 				<size>0.280 0.610</size>
 				<pos>0.020 0.040</pos>
 				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
@@ -258,6 +253,12 @@ this is testing the video preview
 				<unfilledPath>./_inc/img/rating_off.png</unfilledPath>
 			</rating>
 
+			<!-- <image name="grid" extra="true">
+				<path>./_inc/img/bg_grid_dark.png</path>
+				<size>1 1</size>
+				<pos>0 0</pos>
+			</image> -->
+
 	</view>
 
 	<view name="detailed">
@@ -280,19 +281,35 @@ this is testing the video preview
 			<pos>0 0</pos>
 		</image>
 
-		<video name="md_video">
-			<size>0.300 0.400</size>
-			<pos>0.500 0.390</pos>
-			<origin>0.5 0.5</origin>
+		<!-- Personal -->
+		<!-- <video name="md_video">
+			<maxSize>0.340 0.610</maxSize>
+			<pos>0.500 0.040</pos>
+			<origin>0.5 0</origin>
 			<delay>2.0</delay>
 			<showSnapshotNoVideo>true</showSnapshotNoVideo>
 			<showSnapshotDelay>true</showSnapshotDelay>
 		</video>
 
 		<image name="md_marquee">
-			<maxSize>0.340 0.610</maxSize>
-			<pos>0.500 0.345</pos>
-			<origin>0.5 0.5</origin>
+			<maxSize>0.340 0.305</maxSize>
+			<pos>0.500 0.65</pos>
+			<origin>0.5 1</origin>
+		</image> -->
+
+		<video name="md_video">
+			<maxSize>0.340 0.430</maxSize>
+			<pos>0.500 0.650</pos>
+			<origin>0.5 1</origin>
+			<delay>2.0</delay>
+			<showSnapshotNoVideo>true</showSnapshotNoVideo>
+			<showSnapshotDelay>true</showSnapshotDelay>
+		</video>
+
+		<image name="md_marquee">
+			<maxSize>0.340 0.160</maxSize>
+			<pos>0.500 0.04</pos>
+			<origin>0.5 0</origin>
 		</image>
 		
 	</view>
