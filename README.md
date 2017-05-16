@@ -61,6 +61,6 @@ The logos used and trademarks are copyright of their respective owners.
 
 ---
 
-Theme 'indent' v1 - 2017-05-16
+Theme 'indent' v1.0 - 2017-05-16
 (c) Matt Kennedy - info@cutmonkey.net - http://cutmonkey.net/
 For use with [EmulationStation](http://www.emulationstation.org/) and [RetroPie](https://retropie.org.uk/)
