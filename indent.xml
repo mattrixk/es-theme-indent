@@ -39,7 +39,7 @@ this is testing the video preview
 			<pos>0.020 0.945</pos>
 			<textColor>AAAAAA</textColor>
 			<iconColor>AAAAAA</iconColor>
-			<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+			<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 			<fontSize>0.025</fontSize>
 		</helpsystem>
 
@@ -72,8 +72,8 @@ this is testing the video preview
 				<pos>0.010 0.930</pos>
 				<size>0.980 0.050</size>
 				<backgroundColor>FFFFFF00</backgroundColor>
-				<color>FFFFFF</color>
-				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<color>AAAAAA</color>
+				<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 				<fontSize>0.025</fontSize>
 			</text>
 
@@ -93,7 +93,7 @@ this is testing the video preview
 				<secondaryColor>DDDDDD</secondaryColor>
 				<size>0.450 0.850</size>
 				<pos>0.020 0.040</pos>
-				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<lineSpacing>1.5</lineSpacing>
 				<horizontalMargin>0.01</horizontalMargin>
@@ -108,7 +108,7 @@ this is testing the video preview
 				<text name="logoText">
 					<size>0.480 0.120</size>
 					<pos>0.500 0.040</pos>
-					<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+					<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 					<fontSize>0.035</fontSize>
 					<color>FFFFFF</color>
 				</text>
@@ -136,7 +136,7 @@ this is testing the video preview
 				<secondaryColor>CCCCCC</secondaryColor>
 				<size>0.280 0.610</size>
 				<pos>0.020 0.040</pos>
-				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 				<fontSize>0.035</fontSize>
 				<lineSpacing>1.5</lineSpacing>
 				<horizontalMargin>0.01</horizontalMargin>
@@ -150,7 +150,7 @@ this is testing the video preview
 				<text name="logoText">
 					<size>0.280 0.120</size>
 					<pos>0.700 0.040</pos>
-					<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+					<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 					<fontSize>0.035</fontSize>
 					<color>FFFFFF</color>
 				</text>
@@ -165,13 +165,13 @@ this is testing the video preview
 				<size>0.650 0.180</size>
 				<pos>0.020 0.710</pos>
 				<color>FFFFFF</color>
-				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 				<fontSize>0.03</fontSize>
 			</text>
 
 			<text name="md_lbl_players, md_lbl_genre, md_lbl_releasedate, md_lbl_playcount, md_lbl_lastplayed, md_lbl_developer, md_lbl_publisher">
 				<color>DDDDDD</color>
-				<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+				<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 				<fontSize>0.025</fontSize>
 				<size>0.100 0.060</size>
 				<alignment>right</alignment>
@@ -233,7 +233,7 @@ this is testing the video preview
 
 				<text name="md_rating, md_developer, md_publisher, md_genre, md_players, md_playcount">
 					<color>FFFFFF</color>
-					<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+					<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 					<fontSize>0.025</fontSize>
 					<lineSpacing>1.0</lineSpacing>
 					<size>0.170 0.060</size>
@@ -241,7 +241,7 @@ this is testing the video preview
 				
 				<datetime name="md_releasedate, md_lastplayed">
 					<color>FFFFFF</color>
-					<fontPath>./_inc/font/Roboto-Light.ttf</fontPath>
+					<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 					<fontSize>0.025</fontSize>
 					<size>0.170 0.060</size>
 				</datetime>
