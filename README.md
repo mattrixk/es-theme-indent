@@ -10,7 +10,7 @@ This theme supports Video View and Custom Carousel.
 
 ### Supported Systems
 
-Arcade, Atari 2600, Atari 5200, Atari 7800, Atari Lynx, Commordore 64, Desktop, Dreamcast, Famicom, FinalBurn Alpha, Famicom Disk System, Gamegear, Gameboy, Gameboy Advance, Gameby Color, GameCube, Genesis, Kodi, Mame, AdvMame, Mame4All, Mame-libretro, Master System, Mega 32X, MegaCD, MegaDrive, N64, Nintendo DS, NeoGeo, NES, NeoGeo Pocket, NeoGeo Pocket Color, PC, PC Engine, PC Engine CD, Ports, PSP, PSX, RetroPie, ScummVM, Sega 32X, SegaCD, Sega SG-1000, SNES, Super Famicom, TurboGrafx 16, TurboGrafx CD, Virtualboy.
+Arcade, Atari 2600, Atari 5200, Atari 7800, Atari Lynx, ColecoVision, Commordore 64, Desktop, Dreamcast, Famicom, FinalBurn Alpha, Famicom Disk System, Gamegear, Gameboy, Gameboy Advance, Gameby Color, GameCube, Genesis, Kodi, Mame, AdvMame, Mame4All, Mame-libretro, Master System, Mega 32X, MegaCD, MegaDrive, N64, Nintendo DS, NeoGeo, NES, NeoGeo Pocket, NeoGeo Pocket Color, PC, PC Engine, PC Engine CD, Ports, PSP, PSX, RetroPie, ScummVM, Sega 32X, SegaCD, Sega SG-1000, SNES, Super Famicom, TurboGrafx 16, TurboGrafx CD, Virtualboy.
 
 ## Images
 
@@ -48,6 +48,11 @@ The logos used and trademarks are copyright of their respective owners.
 
 
 ## Changelog
+
+**2017-05-22**
+*v1.1*
+ - Changed font from Roboto-Regular to Ubuntu-Medium
+ - Added ColecoVision
 
 **2017-05-16**
 *v1.0*
