@@ -136,7 +136,7 @@ license:		creative commons CC-BY-NC-SA
 				<pos>0.020 0.040</pos>
 				<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 				<fontSize>0.035</fontSize>
-				<lineSpacing>1.5</lineSpacing>
+				<lineSpacing>1.47</lineSpacing>
 				<horizontalMargin>0.01</horizontalMargin>
 			</textlist>
 
@@ -165,6 +165,7 @@ license:		creative commons CC-BY-NC-SA
 				<color>FFFFFF</color>
 				<fontPath>./_inc/font/Ubuntu-Medium.ttf</fontPath>
 				<fontSize>0.03</fontSize>
+				<lineSpacing>1.3</lineSpacing>
 			</text>
 
 			<text name="md_lbl_players, md_lbl_genre, md_lbl_releasedate, md_lbl_playcount, md_lbl_lastplayed, md_lbl_developer, md_lbl_publisher">
